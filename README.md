@@ -8,7 +8,7 @@ Automatizar o registro de gastos e proporcionar uma visão clara do orçamento d
 ## 🚀 Funcionalidades Principais
 
 - **[1] Cadastro de Transações:** Registro detalhado com descrição, valor (suporta decimais) e categoria.
-- **[2] Extrato Detalhado:** Exibição organizada de todas as movimentações financeiras.
+- **[2] Extrato Detalhado:** Exibição organizada de todas as movimentações financeiras. E no fim o valor total gasto no dia
 - **[3] Relatório de Impacto:** Análise de gastos por categoria para maior controle financeiro.
 
 ## 🛠️ Tecnologias Utilizadas
